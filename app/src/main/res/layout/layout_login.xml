@@ -10,8 +10,6 @@
     android:layout_marginBottom="@dimen/loginViewsMargin"
     android:background="@color/whiteCardColor">
 
-
-
     <LinearLayout
         style="@style/linearParent"
         android:layout_gravity="center"

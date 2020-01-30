@@ -1,6 +1,5 @@
 <resources>
 
-    <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -33,7 +32,7 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-    <style name="loginCard" parent="parent"></style>
+    <style name="loginCard" parent="parent" />
 
     <style name="linearParent" parent="parent">
         <item name="android:orientation">vertical</item>
@@ -54,13 +53,13 @@
     </style>
 
     <style name="loginButton" parent="viewParent">
-        <item name="android:background">@drawable/login_button_bk</item>
+<!--        <item name="android:background">@drawable/ic_login_bk</item>-->
         <item name="android:textColor">@color/whiteTextColor</item>
         <item name="android:textStyle">bold</item>
     </style>
 
-
-    <!--onboarding designs-->
-
+    <style name="parent.TextLayout">
+        <!--<item name="android:layout_marginLeft">15dp</item>-->
+    </style>
 
 </resources>
