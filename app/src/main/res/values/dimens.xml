@@ -7,4 +7,9 @@
 
     <dimen name="signup_text_margin_top">10dp</dimen>
 
+    <dimen name="marginGlobal">16dp</dimen>
+    <dimen name="marginSemiGlobal">8dp</dimen>
+    <dimen name="paddingSemiGlobal">8dp</dimen>
+    <dimen name="paddingGlobal">16dp</dimen>
+
 </resources>
