@@ -12,5 +12,6 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="already_have_an_account_nlogin_now">Already Have an Account? Login Now.</string>
+    <string name="back_to_nhome">Back to\nHome</string>
 
 </resources>

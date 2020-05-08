@@ -9,15 +9,21 @@
     <color name="primaryTextColor">#00a5ff</color>
     <color name="loginBkColor">#f0f0f0</color>
 
-    <!--colros for card-->
-    <color name="whiteCardColor">#fff</color>
-
-    <color name="blackTextColor">#000</color>
-
     <color name="colorLoginPrimaryDark">#FDFFFF</color>
 
     <color name="colorGrey">#D3D3D3</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBlack">#000</color>
+
+    <!--colors for profile-->
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+    <color name="df_transparent_black_background">#80000000</color>
+    <color name="whiteCardColor">#fff</color>
+
 
 </resources>
